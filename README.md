@@ -2,6 +2,8 @@
 
 Senior Frontend Engineer specializing in React, TypeScript, Next.js and AI agents (Claude Code, MCP). Based in Des Moines, Iowa, and open to relocation.
 
+**Résumé:** [glazebro.github.io](https://glazebro.github.io/) · [LinkedIn](https://www.linkedin.com/in/mikeglazebrook)
+
 ## What I do
 
 - **Frontend, first.** I build a multi-tenant page-builder platform in React, TypeScript and Next.js: the editor and content blocks, UI quality, accessibility, and Playwright end-to-end tests.
