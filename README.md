@@ -1,6 +1,6 @@
 # Mike Glazebrook
 
-Senior Frontend Engineer specializing in React, TypeScript, Next.js and AI agents (Claude Code, MCP). Based in Des Moines, Iowa, and open to relocation.
+Senior Frontend Engineer specializing in React, TypeScript, Next.js and AI agents (Claude Code, MCP). Based in Des Moines, Iowa.
 
 **Résumé:** [glazebro.github.io](https://glazebro.github.io/) · [LinkedIn](https://www.linkedin.com/in/mikeglazebrook)
 
