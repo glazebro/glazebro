@@ -11,7 +11,9 @@ Senior Frontend Engineer specializing in React, TypeScript, Next.js and AI agent
 
 ## Tooling I've built
 
-- Claude Code skills, plugins and hooks for multi-model cross-review, parallel code review across six angles (correctness, security, tests, performance, maintainability, conventions) and test-first handling of PR comments
+Open source: **[glazebro/claude-skills](https://github.com/glazebro/claude-skills)**, Claude Code skills, a review plugin and hooks I use every day.
+
+- Claude Code skills, plugins and hooks for multi-model cross-review, risk-sized code review with a six-angle parallel deep mode (correctness, security, tests, performance, maintainability, conventions), test-first handling of PR comments, a ticket-to-PR pipeline, a critic-and-builder improvement loop and cloud hand-off
 - A ticket-to-PR agent pipeline with human approval gates, and scheduled agents for site-health audits
 - Shared AI code-review tooling and AI-agent conventions (AGENTS.md) adopted by my team
 - MCP integrations with GitHub, Jira and Confluence, Playwright, Supabase and Vercel
